@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.manoma.app</groupId>
+  <artifactId>create-device-identity</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171023141313</lastUpdated>
+  </versioning>
+</metadata>

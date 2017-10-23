@@ -1,0 +1,1 @@
+# manoma-create-device-identity
